@@ -1,3 +1,4 @@
+/* eslint-disable indent */
 const config = {
   title: 'Gamers Assembly Online Edition',
   logo: '/static/img/logo.png',
@@ -11,11 +12,11 @@ const config = {
   home: {
     banner: '/static/img/banner.png',
     // hero: {
-      // background: '/static/img/bg-grey-area.jpg',
-      // backgroundVideo: 'https://temp.gamers-assembly.net/ga2018.mp4',
-      // logo: '/static/img/logo.png',
-      // title: 'Gamers Assembly',
-      // subtitle: 'Edition 2020'
+    //   background: '/static/img/bg-grey-area.jpg',
+    //   backgroundVideo: 'https://temp.gamers-assembly.net/ga2018.mp4',
+    //   logo: '/static/img/logo.png',
+    //   title: 'Gamers Assembly',
+    //   subtitle: 'Edition 2020'
     // },
     twitterAccount: 'GamersAssembly',
     partners: {
