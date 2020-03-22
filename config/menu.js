@@ -1,3 +1,4 @@
+/* eslint-disable indent */
 const menu = [
   { type: 'config', id: 'news' },
   // { type: 'config', id: 'live' },
