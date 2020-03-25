@@ -4,8 +4,8 @@ const menu = [
   // { type: 'config', id: 'live' },
   { type: 'config', id: 'tournaments' },
   { type: 'config', id: 'info' },
-  { type: 'page', title: 'FAQ', id: 200391, link: '/faq' },
-  { type: 'config', id: 'partners' }
+  { type: 'page', title: 'FAQ', id: 200391, link: '/faq' }
+  // { type: 'config', id: 'partners' }
 ]
 
 module.exports = menu
