@@ -43,7 +43,7 @@ const config = {
     link: '/tournois'
   },
   info: {
-    title: 'Infos',
+    title: 'Infos pratiques',
     description: 'Toutes les informations sur la Gamers Assembly Online Edition',
     link: '/infos'
   },
